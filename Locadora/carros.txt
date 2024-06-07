@@ -1,0 +1,5 @@
+Sedan,Corolla,Toyota,4
+SUV,SW4,Toyota,4
+CaminhaoPequeno,HR,Hyundai,2000
+CaminhaoGrande,FH-540,Volvo,2000
+Sedan,Civic,Honda,4
